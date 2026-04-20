@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(kongdongqishi.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  barb.cpp
+  bullet_time_manager.cpp
+  character.cpp
+  character_manager.cpp
+  collision_manager.cpp
+  enemy.cpp
+  enemy_state_node.cpp
+  main.cpp
+C:\Users\yinjiayi\Desktop\空洞武士大作业\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  player.cpp
+  player_state_nodes.cpp
+  resources_manager.cpp
+  state_machine.cpp
+  sword.cpp
+  正在生成代码...
+  kongdongqishi.vcxproj -> C:\Users\yinjiayi\Desktop\空洞武士大作业\x64\Debug\空洞武士.exe
